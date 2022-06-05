@@ -1,0 +1,22 @@
+.container {
+    margin: auto;
+    width: 80%;
+    text-align: center;
+}
+
+body {
+    color: red;
+    background-color: lightcoral;
+}
+
+.black-border {
+    border: 5px solid black;
+}
+
+#green-background {
+    border: 3px dotted orange;
+    color: blue;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
+    }
